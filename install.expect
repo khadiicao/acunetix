@@ -18,7 +18,7 @@ expect "Insert new hostname, or leave blank to use"
 send -h "\r"
  
 expect "Email:"
-send -h "contact@manhtuong.net\r"
+send -h "ndcuong1@tma.com.vn\r"
 expect "Password:"
 send -h "Abcd1234\r"
 expect "Password again:"
